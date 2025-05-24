@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi there, I'm Furkan! 👋</h1>
-
-🌊 I'm an 8th grade student, currently preparing for high school exams.  
 💻 Passionate about software, especially HTML, CSS, and JavaScript.  
 ⚙️ I enjoy building small creative web projects and learning frontend development.  
 🎯 My goal: To improve my skills and create amazing apps in the future!
