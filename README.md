@@ -1,6 +1,4 @@
 <h1 align="center">Merhaba, ben Furkan! 👋</h1>
-
-🌊 8. sınıf öğrencisiyim ve LGS'ye hazırlanıyorum.  
 💻 Yazılıma, özellikle HTML, CSS ve JavaScript'e bayılıyorum!  
 ⚙️ Arayüz tasarımı, küçük web projeleri ve yaratıcı fikirlerle uğraşmak en büyük hobim.  
 🎯 Hedefim: Kendimi geliştirerek ilerde harika yazılımlar geliştirmek!
